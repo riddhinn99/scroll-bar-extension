@@ -9,7 +9,7 @@ pageDiv.style.width = '100%';
 pageDiv.style.padding = '0';
 pageDiv.style.margin = '0';
 pageDiv.style.opacity = '1';
-pageDiv.style.zIndex = '1000';
+pageDiv.style.zIndex = '2147483647';
 
 //create a div with changing width according to scrolled height
 scrollingDiv = document.createElement('div');
